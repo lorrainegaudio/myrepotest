@@ -1,3 +1,3 @@
 # myrepotest
-testing Sunday before Monday demo
+"My first repo"
 "A line I wrote on my local computer."
